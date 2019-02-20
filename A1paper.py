@@ -1,5 +1,5 @@
 '''
-for kattis problem see https://kth.kattis.com/problems/a1paper
+for kattis problem see https://open.kattis.com/problems/a1paper
 '''
 
 import sys
